@@ -1,2 +1,2 @@
 # democracy-duke
-Measuring Democracy @ Duke University
+## Measuring Democracy @ Duke University
